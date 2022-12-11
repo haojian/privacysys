@@ -11,7 +11,7 @@ Privacy is changing how we build data systems. Recent regulations (e.g., GDPR, C
 
 ## Administrivia
 
-**Lectures**: TueThu 11:00-12:20pm; CSE 2154
+**Lectures**: TueThu 11:00-12:20pm; 
 
 **Instructor**: [Haojian Jin](http://haojianj.in/); Office: SDSC 214E; Office Hours: Tue 2:00-3:00pm
 
