@@ -85,7 +85,7 @@ nav_order: 2
 - [PRIVACY IN UBIQUITOUS COMPUTING](https://www.inf.usi.ch/faculty/langheinrich/articles/papers/2009-ucbook-privacy.pdf)
 - [The privacy paradox – Investigating discrepancies between expressed privacy concerns and actual online behavior](https://www.sciencedirect.com/science/article/pii/S0736585317302022)
 
-### Privacy & Software engineering 
+### Privacy & Developers (Software engineering)
 
 - [Lean Privacy Review]()
 - [A Design Space for Effective Privacy Notices](https://www.usenix.org/system/files/conference/soups2015/soups15-paper-schaub.pdf)
