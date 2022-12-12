@@ -11,7 +11,7 @@ Privacy is changing how we build data systems. Recent regulations (e.g., GDPR, C
 
 ## Administrivia
 
-**Lectures**: TueThu 11:00-12:20pm; 
+**Lectures**: TueThu 05:00PM-06:20PM; WLH 2208
 
 **Instructor**: [Haojian Jin](http://haojianj.in/); Office: SDSC 214E; Office Hours: Tue 2:00-3:00pm
 
@@ -29,7 +29,7 @@ Privacy is changing how we build data systems. Recent regulations (e.g., GDPR, C
 
 ## Course Content and Format
 
-- The course will be based primarily on a reading list of about 30 recent papers from top conferences such as SIGMOD, VLDB, NeurIPS, ICLR, NSDI, and OSDI, organized into topics.
+- The course will be based primarily on a reading list of about 30 recent papers from top conferences such as SIGCHI, Ubicomp, S&P, Usenix Secuirty, CCS, and NSDI, organized into topics.
 
 - Each student has to read and submit their individual reviews of about 18 specified papers in the reading list by the deadline corresponding to each paper. The reviews will have a prescribed format and will have to be submitted via a given Google Form (not via email). See the Schedule for more details. For some advice on how to read a research paper with an evaluative but also appreciative mindset, read this excellent article.
 
