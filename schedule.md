@@ -58,6 +58,7 @@ nav_order: 2
 
 - [Peekaboo](http://haojianj.in/resource/pdf/peekaboo-oakland22.pdf)
 - [Apex: extending Android permission model and enforcement with user-defined runtime constraints]()
+- [Android Permissions](https://guides.codepath.com/android/Understanding-App-Permissions)
 
 
 ### DifferentialPrivacy
