@@ -21,11 +21,11 @@ Privacy is changing how we build data systems. Recent regulations (e.g., GDPR, C
 
 - Each student has to do either a research project or a survey project. The choice has to be indicated in the questionnaire and will have to finalized before 11:59 PM Wednesday 01/16 with an email sent to the instructor.
 
-- **Research Project**: Students choosing to do a research project are encouraged to propose a relevant problem (subject to the consent of the instructor) or choose a problem suggested by the instructor and email the final choice to the instructor before 11:59 PM Wednesday 01/16. The research projects will ideally lay the groundwork for a publication at a top research conference or workshop. Students are encouraged to do individual research projects but groups of two students each are permitted for projects with a larger scope. Each student (or group) has to meet face to face with the instructor at a mutually scheduled half-hour slot every week to discuss the progress on the project.
+- **Research Project**: Students choosing to do a research project are encouraged to propose a relevant problem (subject to the consent of the instructor) or choose a problem suggested by the instructor and email the final choice to the instructor before {{ site.content.topic_selection_ddl }}. The research projects will ideally lay the groundwork for a publication at a top research conference or workshop. Students are encouraged to do individual research projects but groups of two students each are permitted for projects with a larger scope. Each student (or group) has to meet face to face with the instructor at a mutually scheduled half-hour slot every other week to discuss the progress on the project.
 
-- **Survey Project**: Students choosing to do a survey project have to pick one of the course topics and survey the major relevant research papers on that topic. The final choice must be emailed to the instructor before 11:59 PM Wednesday 01/16. Survey projects are restricted to be individual projects and are expected to provide a comprehensive analysis of a topic beyond just summarizing the papers as a laundry list. Each student has to meet with the instructor at a mutually scheduled slot once within the first month of the class to finalize the list of papers that will be surveyed.
+- **Survey Project**: Students choosing to do a survey project have to pick one of the course topics and survey the major relevant research papers on that topic. The final choice must be emailed to the instructor before {{ site.content.topic_selection_ddl }}. Survey projects are restricted to be individual projects and are expected to provide a comprehensive analysis of a topic beyond just summarizing the papers as a laundry list. Each student has to meet with the instructor at a mutually scheduled slot once within the first month of the class to finalize the list of papers that will be surveyed.
 
-- **Project Report**: Each student (or group) has to submit a paper-style report of length 6-12 pages on their research project or survey project by the end of the course. The ACM SIG proceedings LaTeX template should be used for the report. The deadline for emailing the report is 11:59 PM Monday 03/18.
+- **Project Report**: Each student (or group) has to submit a paper-style report of length 6-12 pages on their research project or survey project by the end of the course. The ACM SIG proceedings LaTeX template should be used for the report. The deadline for emailing the report is {{ site.content.report_ddl }}.
 
 
 ## Course Content and Format
@@ -36,16 +36,17 @@ Privacy is changing how we build data systems. Recent regulations (e.g., GDPR, C
 
 - There will be two 75-minute lectures per week (Tue and Thu) by the instructor on the topics, techniques, and papers (mostly from the reading list). Each topic will span about 2 lectures. The lectures will also involve discussions about the reading list papers. All students are expected to read all the assigned papers and participate in the discussions.
 
-- Each student is expected to present a <code>15-min talk</code> about their project to the class. The presentation dates are Tuesday 03/12 and Thursday 03/14. All students are expected to attend all talks.
+- Each student is expected to present a <span style="color:blue">**7-min talk**</span> about their project to the class. The presentation dates are Tuesday 03/12 and Thursday 03/14. All students are expected to attend all talks.
 
 
 ## Grading
 
-- 50%: Performance on the research or survey project, including the project report
-- 25%: Quality and thoroughness of paper reviews
-- 15%: Project presentation
-- 10%: Participation in the lectures/discussions
-
+- <span style="color:blue">**21%**</span>Quality and thoroughness of paper reviews: 21% (7 x 3%); best 7 of 8
+- <span style="color:blue">**12%**</span>Surprise in-class quizzes: 12% (4 x 3%); best 4 of 5; no-fault
+- <span style="color:blue">**10%**</span> Discussion presentation
+- <span style="color:blue">**57%**</span>Project
+    - 40% x 57%: Final presentation. 
+    - 60% x 57%: Report.
 
 
 ### Project Performance Metrics

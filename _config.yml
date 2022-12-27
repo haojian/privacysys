@@ -4,3 +4,13 @@ theme: just-the-docs
 
 url: https://haojian.github.io/privacysys
 
+
+# Content
+content:
+
+  ## deadlines
+  topic_selection_ddl: "Tuesday, April 13, 2021, 10:40am"
+  abstract_ddl: "Thursday, April 22, 2021, 10:40am"
+  report_ddl: "Monday, May 17, 2021 at 10:40am"
+
+
