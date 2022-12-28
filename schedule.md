@@ -69,8 +69,8 @@ table, th, td {
         </li>
         <li>
           <a href="https://www.vs.inf.ethz.ch/publ/papers/privacy-principles.pdf">Privacy by Design – Principles of Privacy-Aware Ubiquitous Systems</a>
-        </li>
-        <li></li>
+        </li> 
+        <li>MobiPurpose</li>
       </ul>
     </td>
   </tr>
@@ -128,13 +128,18 @@ table, th, td {
   </tr>
   <tr>
     <td>Feb 7</td>
-    <td></td>
-    <td>Privacy purpose, privacy expectations, Privacy engineering</td>
+    <td>Privacy reviews and compliance</td>
+    <td rowspan=2>Privacy purpose, privacy expectations, Privacy engineering</td>
   </tr>
     <tr>
     <td>Feb 9</td>
-    <td></td>
-    <td></td>
+     <td> Reading lists: <br />
+      <ul>
+        <li><a href="http://haojianj.in/resource/pdf/LeanPrivacyReview.pdf">Lean Privacy Review: Collecting Users’ Privacy Concerns of Data Practices at a Low Cost</a></li>
+        <li><a href="https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/bootstrapping-oakland14.pdf">LegalEase: Bootstrapping Privacy Compliance in Big Data Systems</a> </li>
+        <li> <a href="https://www.vldb.org/conf/2002/S05P02.pdf">Hippocratic Databases</a> </li>
+      </ul>
+    </td>
   </tr>
   <tr>
     <td colspan=3 style="background: #ADD8E6; text-align: center">
@@ -144,12 +149,17 @@ table, th, td {
   <tr>
     <td>Feb 14</td>
     <td></td>
-    <td> Differential privacy and K-anonymity</td>
+    <td rowspan=2> Differential privacy and K-anonymity</td>
   </tr>
     <tr>
     <td>Feb 16</td>
-    <td></td>
-    <td></td>
+     <td> Reading lists: <br />
+      <ul>
+        <li><a>Lean Privacy Review</a></li>
+        <li> <a></a> </li>
+        <li> <a></a> </li>
+      </ul>
+    </td>
   </tr>
   <tr>
     <td colspan=3 style="background: #ADD8E6; text-align: center">
@@ -159,12 +169,17 @@ table, th, td {
     <tr>
     <td>Feb 21</td>
     <td></td>
-    <td>High stake privacy, vulnerable population, inclusive privacy</td>
+    <td rowspan=2>High stake privacy, vulnerable population, inclusive privacy</td>
   </tr>
     <tr>
     <td>Feb 23</td>
-    <td></td>
-    <td></td>
+    <td> Reading lists: <br />
+      <ul>
+        <li><a>Lean Privacy Review</a></li>
+        <li></li>
+        <li> <a></a> </li>
+      </ul>
+    </td>
   </tr>
   <tr>
     <td colspan=3 style="background: #ADD8E6; text-align: center">
@@ -174,12 +189,17 @@ table, th, td {
   <tr>
     <td>Feb 28</td>
     <td></td>
-    <td>Big brother privacy</td>
+    <td  rowspan=2>Big brother privacy</td>
   </tr>
     <tr>
     <td>Mar 2</td>
-    <td></td>
-    <td></td>
+     <td> Reading lists: <br />
+      <ul>
+        <li> <a href="https://www.usenix.org/system/files/conference/usenixsecurity15/sec15-paper-sun.pdf">RAPTOR: Routing Attacks on Privacy in Tor</a></li>
+        <li> <a href="https://publications.teamusec.de/2022-oakland-email/pdf/2022_oakland_email_stransky_preprint.pdf">27 Years and 81 Million Opportunities Later: Investigating the Use of Email Encryption for an Entire University</a> </li>
+        <li> <a href="https://www.usenix.org/system/files/sec20-edalatnejad_0.pdf">DatashareNetwork: A Decentralized Privacy-Preserving Search Engine for Investigative Journalists</a> </li>
+      </ul>
+    </td>
   </tr>
   <tr>
     <td colspan=3 style="background: #ADD8E6; text-align: center">
@@ -189,12 +209,17 @@ table, th, td {
         <tr>
     <td>Mar 7</td>
     <td></td>
-    <td> Agency, usability, behavioral economics</td>
+    <td rowspan=2>Agency, usability, behavioral economics</td>
   </tr>
     <tr>
     <td>Mar 9</td>
-    <td></td>
-    <td></td>
+     <td> Reading lists: <br />
+      <ul>
+        <li><a href="https://www.sciencedirect.com/science/article/pii/S2352250X19301484">Cognitive biases, dark patterns, and the ‘privacy paradox’</a></li>
+        <li> <a href="https://dl.acm.org/doi/pdf/10.1145/3173574.3174241">“A Stalker’s Paradise”: How Intimate Partner Abusers Exploit Technology</a> </li>
+        <li> <a></a> </li>
+      </ul>
+    </td>
   </tr>
     <tr>
     <td colspan=3 style="background: #ADD8E6; text-align: center">
@@ -230,39 +255,11 @@ table, th, td {
 - [A Privacy Awareness System for Ubiquitous Computing Environments]()
 - [Privacy engineering emerges as a hot new career](https://lorrie.cranor.org/pubs/potentialsNov2013.pdf)
 - [Audit Trails in Evidence - A Queensland Case Study](https://warwick.ac.uk/fac/soc/law/elj/jilt/2002_1/allinson/)
-
-
-### Contextual integrity & Reasonable Privacy Expectations
-
-- [Android Privacy document]()
-- [Google Privacy Sandbox Proposal]()
-- [MobiPurpose]()
-- [One guest lecture]()
-
-
-### Privacy & Law
-
-
-
-
-### Privacy & Ubicomp
-
+- [Why is Privacy hard by Jason Hong](https://cacm.acm.org/blogs/blog-cacm/235401-why-is-privacy-so-hard/fulltext)
+- [Google Privacy Sandbox](https://privacysandbox.com/)
+- [Privacy Policy, Law, and Technology @ CMU](https://cups.cs.cmu.edu/courses/pplt-fa15/)
 - [PRIVACY IN UBIQUITOUS COMPUTING](https://www.inf.usi.ch/faculty/langheinrich/articles/papers/2009-ucbook-privacy.pdf)
 - [The privacy paradox – Investigating discrepancies between expressed privacy concerns and actual online behavior](https://www.sciencedirect.com/science/article/pii/S0736585317302022)
-
-### Privacy & Developers (Software engineering)
-
-- [Lean Privacy Review]()
-
-### Privacy & HCI
-
 - [End-User Privacy in Human–Computer Interaction](https://drive.google.com/file/d/1Wp_6r3vG1qNti91wogqdGHC2IMHLkRy6/view)
-
-### Privacy & ML
-
 - [Machine Learning with Adversaries](https://ucbrise.github.io/cs294-ai-sys-fa19/assets/lectures/lec10/10_adversarial_ml.pdf)
-
-### Misc 
-
-- [Bootstrapping Privacy Compliance in Big Data Systems](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/bootstrapping-oakland14.pdf)
-- [Hippocratic Databases](https://www.vldb.org/conf/2002/S05P02.pdf)
+- [How Whatsapp reduced spam while launching end-to-end encryption?](https://www.usenix.org/conference/enigma2017/conference-program/presentation/jones)
