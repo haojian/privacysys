@@ -41,10 +41,10 @@ Privacy is changing how we build data systems. Recent regulations (e.g., GDPR, C
 
 ## Grading
 
-- <span style="color:blue">**21%**</span>Quality and thoroughness of paper reviews: 21% (7 x 3%); best 7 of 8
-- <span style="color:blue">**12%**</span>Surprise in-class quizzes: 12% (4 x 3%); best 4 of 5; no-fault
+- <span style="color:blue">**21%**</span> Quality and thoroughness of paper reviews: 21% (7 x 3%); best 7 of 8
+- <span style="color:blue">**12%**</span> Surprise in-class quizzes: 12% (4 x 3%); best 4 of 5; no-fault
 - <span style="color:blue">**10%**</span> Discussion presentation
-- <span style="color:blue">**57%**</span>Project
+- <span style="color:blue">**57%**</span> Project
     - 40% x 57%: Final presentation. 
     - 60% x 57%: Report.
 
