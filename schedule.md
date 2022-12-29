@@ -148,15 +148,14 @@ table, th, td {
   </tr>
   <tr>
     <td>Feb 14</td>
-    <td></td>
+    <td>Statistical privacy</td>
     <td rowspan=2> Differential privacy and K-anonymity</td>
   </tr>
     <tr>
     <td>Feb 16</td>
      <td> Reading lists: <br />
       <ul>
-        <li><a>Lean Privacy Review</a></li>
-        <li> <a></a> </li>
+        <li><a href="https://www.cse.psu.edu/~duk17/papers/nflprivacy.pdf">No Free Lunch in Data Privacy</a></li>
         <li> <a></a> </li>
       </ul>
     </td>
@@ -168,16 +167,15 @@ table, th, td {
   </tr>
     <tr>
     <td>Feb 21</td>
-    <td></td>
-    <td rowspan=2>High stake privacy, vulnerable population, inclusive privacy</td>
+    <td>What constitutes public data?</td>
+    <td rowspan=2>High stake tasks, vulnerable population, inclusive privacy</td>
   </tr>
     <tr>
     <td>Feb 23</td>
     <td> Reading lists: <br />
       <ul>
-        <li><a>Lean Privacy Review</a></li>
-        <li></li>
-        <li> <a></a> </li>
+      <li><a href="http://www.sfu.ca/~palys/Zimmer-2010-EthicsOfResearchFromFacebook.pdf">"But the data is already public": on the ethics of research
+in Facebook</a></li>
       </ul>
     </td>
   </tr>
@@ -188,8 +186,8 @@ table, th, td {
   </tr>
   <tr>
     <td>Feb 28</td>
-    <td></td>
-    <td  rowspan=2>Big brother privacy</td>
+    <td>Big brother privacy</td>
+    <td  rowspan=2>Applied cryptography</td>
   </tr>
     <tr>
     <td>Mar 2</td>
@@ -208,7 +206,7 @@ table, th, td {
   </tr>
         <tr>
     <td>Mar 7</td>
-    <td></td>
+    <td>The hidden persuaders</td>
     <td rowspan=2>Agency, usability, behavioral economics</td>
   </tr>
     <tr>
@@ -216,8 +214,8 @@ table, th, td {
      <td> Reading lists: <br />
       <ul>
         <li><a href="https://www.sciencedirect.com/science/article/pii/S2352250X19301484">Cognitive biases, dark patterns, and the ‘privacy paradox’</a></li>
-        <li> <a href="https://dl.acm.org/doi/pdf/10.1145/3173574.3174241">“A Stalker’s Paradise”: How Intimate Partner Abusers Exploit Technology</a> </li>
-        <li> <a></a> </li>
+        <li><a href="https://arxiv.org/pdf/1907.07032.pdf">Dark Patterns at Scale: Findings from a Crawl of 11K Shopping Websites</a> </li>
+        <li><a href="https://dl.acm.org/doi/pdf/10.1145/1541948.1541999">A Behavior Model for Persuasive Design</a> </li>
       </ul>
     </td>
   </tr>
@@ -263,3 +261,5 @@ table, th, td {
 - [End-User Privacy in Human–Computer Interaction](https://drive.google.com/file/d/1Wp_6r3vG1qNti91wogqdGHC2IMHLkRy6/view)
 - [Machine Learning with Adversaries](https://ucbrise.github.io/cs294-ai-sys-fa19/assets/lectures/lec10/10_adversarial_ml.pdf)
 - [How Whatsapp reduced spam while launching end-to-end encryption?](https://www.usenix.org/conference/enigma2017/conference-program/presentation/jones)
+- [A Stalker’s Paradise”: How Intimate Partner Abusers Exploit Technology](https://dl.acm.org/doi/pdf/10.1145/3173574.3174241)
+- [What Is “Publicly Available Data”? Exploring Blurred Public–Private Boundaries and Ethical Practices Through a Case Study on Instagram](https://journals.sagepub.com/doi/full/10.1177/1556264619850736)

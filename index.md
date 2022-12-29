@@ -19,7 +19,7 @@ Privacy is changing how we build data systems. Recent regulations (e.g., GDPR, C
 
 ## Course Project
 
-- Each student has to do either a research project or a survey project. The choice has to be indicated in the questionnaire and will have to finalized before 11:59 PM Wednesday 01/16 with an email sent to the instructor.
+- Each student has to do either a research project or a survey project. The choice has to be indicated in the questionnaire and will have to finalized before {{ site.content.topic_selection_ddl }} with an email sent to the instructor.
 
 - **Research Project**: Students choosing to do a research project are encouraged to propose a relevant problem (subject to the consent of the instructor) or choose a problem suggested by the instructor and email the final choice to the instructor before {{ site.content.topic_selection_ddl }}. The research projects will ideally lay the groundwork for a publication at a top research conference or workshop. Students are encouraged to do individual research projects but groups of two students each are permitted for projects with a larger scope. Each student (or group) has to meet face to face with the instructor at a mutually scheduled half-hour slot every other week to discuss the progress on the project.
 
@@ -36,7 +36,7 @@ Privacy is changing how we build data systems. Recent regulations (e.g., GDPR, C
 
 - There will be two 75-minute lectures per week (Tue and Thu) by the instructor on the topics, techniques, and papers (mostly from the reading list). Each topic will span about 2 lectures. The lectures will also involve discussions about the reading list papers. All students are expected to read all the assigned papers and participate in the discussions.
 
-- Each student is expected to present a <span style="color:blue">**7-min talk**</span> about their project to the class. The presentation dates are Tuesday 03/12 and Thursday 03/14. All students are expected to attend all talks.
+- Each student is expected to present a <span style="color:blue">**7-min talk**</span> about their project to the class. All students are expected to attend all talks.
 
 
 ## Grading
