@@ -263,3 +263,4 @@ in Facebook</a></li>
 - [How Whatsapp reduced spam while launching end-to-end encryption?](https://www.usenix.org/conference/enigma2017/conference-program/presentation/jones)
 - [A Stalker’s Paradise”: How Intimate Partner Abusers Exploit Technology](https://dl.acm.org/doi/pdf/10.1145/3173574.3174241)
 - [What Is “Publicly Available Data”? Exploring Blurred Public–Private Boundaries and Ethical Practices Through a Case Study on Instagram](https://journals.sagepub.com/doi/full/10.1177/1556264619850736)
+- [Fact Sheet: Plan to Protect Privacy in the Internet Age by Adopting a Consumer Privacy Bill of Rights](https://obamawhitehouse.archives.gov/the-press-office/2012/02/23/fact-sheet-plan-protect-privacy-internet-age-adopting-consumer-privacy-b)
