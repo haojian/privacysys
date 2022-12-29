@@ -32,7 +32,7 @@ Privacy is changing how we build data systems. Recent regulations (e.g., GDPR, C
 
 - The course will be based primarily on a reading list of about 30 recent papers from top conferences such as SIGCHI, Ubicomp, S&P, Usenix Secuirty, CCS, and NSDI, organized into topics.
 
-- Each student has to read and submit their individual reviews of about 18 specified papers in the reading list by the deadline corresponding to each paper. The reviews will have a prescribed format and will have to be submitted via a given Google Form (not via email). See the Schedule for more details. For some advice on how to read a research paper with an evaluative but also appreciative mindset, read this excellent article.
+- Each student has to read and submit their individual reviews of about 18 specified papers in the reading list by the deadline corresponding to each paper. The reviews will have a prescribed format and will have to be submitted via a given Google Form (not via email). See the Schedule for more details. For some advice on how to read a research paper with an evaluative but also appreciative mindset, read this excellent article: [How to Read a Paper](http://ccr.sigcomm.org/online/files/p83-keshavA.pdf).
 
 - There will be two 75-minute lectures per week (Tue and Thu) by the instructor on the topics, techniques, and papers (mostly from the reading list). Each topic will span about 2 lectures. The lectures will also involve discussions about the reading list papers. All students are expected to read all the assigned papers and participate in the discussions.
 
