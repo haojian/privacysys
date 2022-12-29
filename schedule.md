@@ -91,6 +91,7 @@ table, th, td {
         <li>
           <a href="https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=4d5b0fe49e7fa08b252af70e890a58b49353fc17">Apex: extending Android permission model and enforcement with user-defined runtime constraints</a>
         </li>
+        <li><a href="https://dl.acm.org/doi/pdf/10.1145/2207676.2207759">Why Johnny Can’t Opt Out: A Usability Evaluation of Tools to Limit Online Behavioral Advertising</a></li>
       </ul>
     </td>
   </tr>
@@ -115,9 +116,8 @@ table, th, td {
         <li>
           <a href="https://www.ftc.gov/sites/default/files/documents/reports/federal-trade-commission-bureau-consumer-protection-preliminary-ftc-staff-report-protecting-consumer/101201privacyreport.pdf">Do Not Track (page 63-68)</a>
         </li>
-        <li>
-          <a href="https://www.usenix.org/system/files/conference/soups2015/soups15-paper-schaub.pdf">A Design Space for Effective Privacy Notices</a>
-        </li>
+        <li><a href="https://lorrie.cranor.org/pubs/wpes24reeder.pdf">A User Study of the Expandable Grid Applied to P3P
+Privacy Policy Visualization</a></li>
       </ul>
     </td>
   </tr>
@@ -264,3 +264,4 @@ in Facebook</a></li>
 - [A Stalker’s Paradise”: How Intimate Partner Abusers Exploit Technology](https://dl.acm.org/doi/pdf/10.1145/3173574.3174241)
 - [What Is “Publicly Available Data”? Exploring Blurred Public–Private Boundaries and Ethical Practices Through a Case Study on Instagram](https://journals.sagepub.com/doi/full/10.1177/1556264619850736)
 - [Fact Sheet: Plan to Protect Privacy in the Internet Age by Adopting a Consumer Privacy Bill of Rights](https://obamawhitehouse.archives.gov/the-press-office/2012/02/23/fact-sheet-plan-protect-privacy-internet-age-adopting-consumer-privacy-b)
+- [A Design Space for Effective Privacy Notices](https://www.usenix.org/system/files/conference/soups2015/soups15-paper-schaub.pdf)
