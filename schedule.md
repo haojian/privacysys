@@ -118,6 +118,7 @@ table, th, td {
         </li>
         <li><a href="https://lorrie.cranor.org/pubs/wpes24reeder.pdf">A User Study of the Expandable Grid Applied to P3P
 Privacy Policy Visualization</a></li>
+        <li><a href="https://firstmonday.org/article/view/3086/2589">Facebook privacy settings: Who cares?</a></li>
       </ul>
     </td>
   </tr>
