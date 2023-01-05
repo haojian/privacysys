@@ -57,7 +57,7 @@ table, th, td {
     <td>Jan 17</td>
     <td>Location privacy</td>
     <td rowspan=2>
-      <a href="https://en.wikipedia.org/wiki/FTC_fair_information_practice">FTC fair information practice</a>
+      <a href="https://en.wikipedia.org/wiki/FTC_fair_information_practice">FTC fair information practice</a>, The purpose of data collection and processing
     </td>
   </tr>
   <tr>
@@ -70,13 +70,13 @@ table, th, td {
         <li>
           <a href="https://www.vs.inf.ethz.ch/publ/papers/privacy-principles.pdf">Privacy by Design – Principles of Privacy-Aware Ubiquitous Systems</a>
         </li> 
-        <li>MobiPurpose</li>
+        <li><a href="http://haojianj.in/resource/pdf/mobipurpose_ubicomp.pdf">"Why Are They Collecting My Data?": Inferring the Purposes of Network Traffic in Mobile Apps</a></li>
       </ul>
     </td>
   </tr>
   <tr>
     <td colspan=3 style="background: #ADD8E6; text-align: center">
-      <b>Week 3 <a href="https://guides.codepath.com/android/Understanding-App-Permissions">Android permission</a>, Browser cookie consent </b>
+      <b>Week 3 <a href="https://guides.codepath.com/android/Understanding-App-Permissions">Android permission</a>, Browser cookie consent, OAuth </b>
     </td>
   </tr>
   <tr>
@@ -92,6 +92,7 @@ table, th, td {
           <a href="https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=4d5b0fe49e7fa08b252af70e890a58b49353fc17">Apex: extending Android permission model and enforcement with user-defined runtime constraints</a>
         </li>
         <li><a href="https://dl.acm.org/doi/pdf/10.1145/2207676.2207759">Why Johnny Can’t Opt Out: A Usability Evaluation of Tools to Limit Online Behavioral Advertising</a></li>
+        <li>OAuth</li>
       </ul>
     </td>
   </tr>
@@ -256,6 +257,7 @@ in Facebook</a></li>
 - [Audit Trails in Evidence - A Queensland Case Study](https://warwick.ac.uk/fac/soc/law/elj/jilt/2002_1/allinson/)
 - [Why is Privacy hard by Jason Hong](https://cacm.acm.org/blogs/blog-cacm/235401-why-is-privacy-so-hard/fulltext)
 - [Google Privacy Sandbox](https://privacysandbox.com/)
+- [The privacy sandbox documents](https://developer.chrome.com/en/docs/privacy-sandbox/)
 - [Privacy Policy, Law, and Technology @ CMU](https://cups.cs.cmu.edu/courses/pplt-fa15/)
 - [PRIVACY IN UBIQUITOUS COMPUTING](https://www.inf.usi.ch/faculty/langheinrich/articles/papers/2009-ucbook-privacy.pdf)
 - [The privacy paradox – Investigating discrepancies between expressed privacy concerns and actual online behavior](https://www.sciencedirect.com/science/article/pii/S0736585317302022)
@@ -266,3 +268,4 @@ in Facebook</a></li>
 - [What Is “Publicly Available Data”? Exploring Blurred Public–Private Boundaries and Ethical Practices Through a Case Study on Instagram](https://journals.sagepub.com/doi/full/10.1177/1556264619850736)
 - [Fact Sheet: Plan to Protect Privacy in the Internet Age by Adopting a Consumer Privacy Bill of Rights](https://obamawhitehouse.archives.gov/the-press-office/2012/02/23/fact-sheet-plan-protect-privacy-internet-age-adopting-consumer-privacy-b)
 - [A Design Space for Effective Privacy Notices](https://www.usenix.org/system/files/conference/soups2015/soups15-paper-schaub.pdf)
+- [Android Open Source Project - Permissions](https://source.android.com/docs/core/permissions)
