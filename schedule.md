@@ -91,7 +91,6 @@ table, th, td {
         <li>
           <a href="https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=4d5b0fe49e7fa08b252af70e890a58b49353fc17">Apex: extending Android permission model and enforcement with user-defined runtime constraints</a>
         </li>
-        <li><a href="https://dl.acm.org/doi/pdf/10.1145/2207676.2207759">Why Johnny Can’t Opt Out: A Usability Evaluation of Tools to Limit Online Behavioral Advertising</a></li>
         <li>OAuth</li>
       </ul>
     </td>
@@ -269,3 +268,4 @@ in Facebook</a></li>
 - [Fact Sheet: Plan to Protect Privacy in the Internet Age by Adopting a Consumer Privacy Bill of Rights](https://obamawhitehouse.archives.gov/the-press-office/2012/02/23/fact-sheet-plan-protect-privacy-internet-age-adopting-consumer-privacy-b)
 - [A Design Space for Effective Privacy Notices](https://www.usenix.org/system/files/conference/soups2015/soups15-paper-schaub.pdf)
 - [Android Open Source Project - Permissions](https://source.android.com/docs/core/permissions)
+- [Why Johnny Can’t Opt Out: A Usability Evaluation of Tools to Limit Online Behavioral Advertising](https://dl.acm.org/doi/pdf/10.1145/2207676.2207759)

@@ -12,7 +12,7 @@ Privacy is changing how we build data systems. Recent regulations (e.g., GDPR, C
 
 ## Administrivia
 
-**Lectures**: TueThu 05:00PM-06:20PM; WLH 2208
+**Lectures**: TueThu 05:00PM-06:20PM; Warren Lecture Hall (WLH) 2208
 
 **Instructor**: [Haojian Jin](http://haojianj.in/); Office: SDSC 214E; Office Hours: Tue 2:00-3:00pm
 
