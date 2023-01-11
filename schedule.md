@@ -39,7 +39,7 @@ table, th, td {
   </tr>
   <tr>
     <td>Jan 10</td>
-    <td>Introduction & logistics [Slides](resources/Week%201a.pdf)</td>
+    <td>Introduction & logistics [Slides](resources/Week-1a.pdf)</td>
     <td></td>
   </tr>
   <tr>
