@@ -44,7 +44,7 @@ table, th, td {
   </tr>
   <tr>
     <td>Jan 12</td>
-    <td>Why is privacy hard?</td>
+    <td>Why is privacy hard? [<a href="resources/Week-1b.pdf">Slides</a>]</td>
     <td></td>
   </tr>
   <tr>
