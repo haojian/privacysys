@@ -55,7 +55,7 @@ table, th, td {
   </tr>
   <tr>
     <td>Jan 17</td>
-    <td>Location privacy</td>
+    <td>Location privacy [<a href="resources/Week-2a.pdf">Slides</a>]</td>
     <td rowspan=2>
       <a href="https://en.wikipedia.org/wiki/FTC_fair_information_practice">FTC fair information practice</a>, The purpose of data collection and processing
     </td>
