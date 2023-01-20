@@ -76,7 +76,7 @@ table, th, td {
   </tr>
   <tr>
     <td colspan=3 style="background: #ADD8E6; text-align: center">
-      <b>Week 3 <a href="https://guides.codepath.com/android/Understanding-App-Permissions">Android permission</a>, Browser cookie consent, OAuth </b>
+      <b>Week 3 <a href="https://guides.codepath.com/android/Understanding-App-Permissions">Android permission</a>, <a href="https://www.cookielaw.org/the-cookie-law/">Browser cookie consent</a>, <a href="https://en.wikipedia.org/wiki/OAuth">OAuth</a> </b>
     </td>
   </tr>
   <tr>
@@ -91,7 +91,7 @@ table, th, td {
         <li>
           <a href="https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=4d5b0fe49e7fa08b252af70e890a58b49353fc17">Apex: extending Android permission model and enforcement with user-defined runtime constraints</a>
         </li>
-        <li><a href="https://dl.acm.org/doi/pdf/10.1145/3319535.3354212">(Un)informed Consent: Studying GDPR Consent Notices in the Field</li>
+        <li><a href="https://dl.acm.org/doi/pdf/10.1145/3319535.3354212">(Un)informed Consent: Studying GDPR Consent Notices in the Field</a></li>
       </ul>
     </td>
   </tr>
@@ -110,10 +110,13 @@ table, th, td {
     <td>Feb 2</td>
     <td> Reading lists: <br />
       <ul>
+      <li></li>
         <li>
-          <a href="http://haojianj.in/resource/pdf/peekaboo-oakland22.pdf">Peekaboo: A Hub-Based Approach to Enable Transparency in Data Processing within Smart Homes</a>
+          <a href="https://archive.epic.org/reports/prettypoorprivacy.html">Pretty Poor Privacy: An Assessment of P3P and Internet Privacy</a>
         </li>
-
+        <li>
+          <a href="http://haojianj.in/resource/pdf/peekaboo-oakland22.pdf">Peekaboo: A Hub-Based Approach to Enable Transparency in Data Processing within Smart Homes</a>  
+        </li>
       </ul>
     </td>
   </tr>
@@ -133,7 +136,6 @@ table, th, td {
       <ul>
         <li><a href="http://haojianj.in/resource/pdf/LeanPrivacyReview.pdf">Lean Privacy Review: Collecting Users’ Privacy Concerns of Data Practices at a Low Cost</a></li>
         <li><a href="https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/bootstrapping-oakland14.pdf">LegalEase: Bootstrapping Privacy Compliance in Big Data Systems</a> </li>
-        <li> <a href="https://www.vldb.org/conf/2002/S05P02.pdf">Hippocratic Databases</a> </li>
       </ul>
     </td>
   </tr>
@@ -211,7 +213,6 @@ in Facebook</a></li>
       <ul>
         <li><a href="https://www.sciencedirect.com/science/article/pii/S2352250X19301484">Cognitive biases, dark patterns, and the ‘privacy paradox’</a></li>
         <li><a href="https://arxiv.org/pdf/1907.07032.pdf">Dark Patterns at Scale: Findings from a Crawl of 11K Shopping Websites</a> </li>
-        <li><a href="https://dl.acm.org/doi/pdf/10.1145/1541948.1541999">A Behavior Model for Persuasive Design</a> </li>
       </ul>
     </td>
   </tr>
@@ -231,6 +232,8 @@ in Facebook</a></li>
     <td></td>
   </tr>
 </table>
+
+
 
 
 
@@ -267,3 +270,8 @@ in Facebook</a></li>
 - [Do Not Track (page 63-68)](https://www.ftc.gov/sites/default/files/documents/reports/federal-trade-commission-bureau-consumer-protection-preliminary-ftc-staff-report-protecting-consumer/101201privacyreport.pdf)
 - [A User Study of the Expandable Grid Applied to P3P Privacy Policy Visualization](https://lorrie.cranor.org/pubs/wpes24reeder.pdf)
 - [Facebook privacy settings: Who cares?](https://firstmonday.org/article/view/3086/2589)
+- [Hippocratic Databases](https://www.vldb.org/conf/2002/S05P02.pdf)
+- [A Behavior Model for Persuasive Design](https://dl.acm.org/doi/pdf/10.1145/1541948.1541999)
+- [Web Privacy with P3P](https://www.researchgate.net/profile/Lorrie-Cranor/publication/238752773_Web_privacy_with_p3p/links/0deec53984b197c3c9000000/Web-privacy-with-p3p.pdf)
+- [Why We Can’t Be Bothered to Read Privacy Policies Models of Privacy Economics as a Lemons Market](https://dl.acm.org/doi/pdf/10.1145/948005.948057)
+- 
