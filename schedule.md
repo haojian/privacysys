@@ -91,7 +91,7 @@ table, th, td {
         <li>
           <a href="https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=4d5b0fe49e7fa08b252af70e890a58b49353fc17">Apex: extending Android permission model and enforcement with user-defined runtime constraints</a>
         </li>
-        <li>OAuth</li>
+        <li><a href="https://dl.acm.org/doi/pdf/10.1145/3319535.3354212">(Un)informed Consent: Studying GDPR Consent Notices in the Field</li>
       </ul>
     </td>
   </tr>
@@ -113,12 +113,7 @@ table, th, td {
         <li>
           <a href="http://haojianj.in/resource/pdf/peekaboo-oakland22.pdf">Peekaboo: A Hub-Based Approach to Enable Transparency in Data Processing within Smart Homes</a>
         </li>
-        <li>
-          <a href="https://www.ftc.gov/sites/default/files/documents/reports/federal-trade-commission-bureau-consumer-protection-preliminary-ftc-staff-report-protecting-consumer/101201privacyreport.pdf">Do Not Track (page 63-68)</a>
-        </li>
-        <li><a href="https://lorrie.cranor.org/pubs/wpes24reeder.pdf">A User Study of the Expandable Grid Applied to P3P
-Privacy Policy Visualization</a></li>
-        <li><a href="https://firstmonday.org/article/view/3086/2589">Facebook privacy settings: Who cares?</a></li>
+
       </ul>
     </td>
   </tr>
@@ -269,3 +264,6 @@ in Facebook</a></li>
 - [A Design Space for Effective Privacy Notices](https://www.usenix.org/system/files/conference/soups2015/soups15-paper-schaub.pdf)
 - [Android Open Source Project - Permissions](https://source.android.com/docs/core/permissions)
 - [Why Johnny Can’t Opt Out: A Usability Evaluation of Tools to Limit Online Behavioral Advertising](https://dl.acm.org/doi/pdf/10.1145/2207676.2207759)
+- [Do Not Track (page 63-68)](https://www.ftc.gov/sites/default/files/documents/reports/federal-trade-commission-bureau-consumer-protection-preliminary-ftc-staff-report-protecting-consumer/101201privacyreport.pdf)
+- [A User Study of the Expandable Grid Applied to P3P Privacy Policy Visualization](https://lorrie.cranor.org/pubs/wpes24reeder.pdf)
+- [Facebook privacy settings: Who cares?](https://firstmonday.org/article/view/3086/2589)
