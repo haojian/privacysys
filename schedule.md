@@ -81,7 +81,7 @@ table, th, td {
   </tr>
   <tr>
     <td>Jan 24</td>
-    <td>Permissions</td>
+    <td>Permissions [<a href="resources/Week-3a.pdf">Slides</a>]</td>
     <td rowspan=2>Control, notice, consent, usability</td>
   </tr>
   <tr>
@@ -274,4 +274,3 @@ in Facebook</a></li>
 - [A Behavior Model for Persuasive Design](https://dl.acm.org/doi/pdf/10.1145/1541948.1541999)
 - [Web Privacy with P3P](https://www.researchgate.net/profile/Lorrie-Cranor/publication/238752773_Web_privacy_with_p3p/links/0deec53984b197c3c9000000/Web-privacy-with-p3p.pdf)
 - [Why We Can’t Be Bothered to Read Privacy Policies Models of Privacy Economics as a Lemons Market](https://dl.acm.org/doi/pdf/10.1145/948005.948057)
-- 
