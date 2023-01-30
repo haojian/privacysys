@@ -117,6 +117,9 @@ table, th, td {
         <li>
           <a href="http://haojianj.in/resource/pdf/peekaboo-oakland22.pdf">Peekaboo: A Hub-Based Approach to Enable Transparency in Data Processing within Smart Homes</a>  
         </li>
+        <li>
+          <a href="https://www.vldb.org/conf/2002/S05P02.pdf">Hippocratic Databases</a>
+        </li>
       </ul>
     </td>
   </tr>
@@ -172,8 +175,7 @@ table, th, td {
     <td>Feb 23</td>
     <td> Reading lists: <br />
       <ul>
-      <li><a href="http://www.sfu.ca/~palys/Zimmer-2010-EthicsOfResearchFromFacebook.pdf">"But the data is already public": on the ethics of research
-in Facebook</a></li>
+      <li><a href="http://www.sfu.ca/~palys/Zimmer-2010-EthicsOfResearchFromFacebook.pdf">"But the data is already public": on the ethics of research in Facebook</a></li>
       </ul>
     </td>
   </tr>
@@ -270,7 +272,7 @@ in Facebook</a></li>
 - [Do Not Track (page 63-68)](https://www.ftc.gov/sites/default/files/documents/reports/federal-trade-commission-bureau-consumer-protection-preliminary-ftc-staff-report-protecting-consumer/101201privacyreport.pdf)
 - [A User Study of the Expandable Grid Applied to P3P Privacy Policy Visualization](https://lorrie.cranor.org/pubs/wpes24reeder.pdf)
 - [Facebook privacy settings: Who cares?](https://firstmonday.org/article/view/3086/2589)
-- [Hippocratic Databases](https://www.vldb.org/conf/2002/S05P02.pdf)
+<!-- - [Hippocratic Databases](https://www.vldb.org/conf/2002/S05P02.pdf) -->
 - [A Behavior Model for Persuasive Design](https://dl.acm.org/doi/pdf/10.1145/1541948.1541999)
 - [Web Privacy with P3P](https://www.researchgate.net/profile/Lorrie-Cranor/publication/238752773_Web_privacy_with_p3p/links/0deec53984b197c3c9000000/Web-privacy-with-p3p.pdf)
 - [Why We Can’t Be Bothered to Read Privacy Policies Models of Privacy Economics as a Lemons Market](https://dl.acm.org/doi/pdf/10.1145/948005.948057)
