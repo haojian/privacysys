@@ -97,7 +97,7 @@ table, th, td {
   </tr>
   <tr>
     <td colspan=3 style="background: #ADD8E6; text-align: center">
-      <b>Week 4 <a href="https://www.w3.org/P3P/">Platform for Privacy Preferences (P3P) Project</a>
+      <b>Week 4 <a href="https://www.w3.org/P3P/">Platform for Privacy Preferences (P3P) Project</a> [<a href="resources/Week-4a.pdf">Slides</a>]
       </b>
     </td>
   </tr>
