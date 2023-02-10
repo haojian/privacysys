@@ -97,13 +97,13 @@ table, th, td {
   </tr>
   <tr>
     <td colspan=3 style="background: #ADD8E6; text-align: center">
-      <b>Week 4 <a href="https://www.w3.org/P3P/">Platform for Privacy Preferences (P3P) Project</a> [<a href="resources/Week-4a.pdf">Slides</a>]
+      <b>Week 4 <a href="https://www.w3.org/P3P/">Platform for Privacy Preferences (P3P) Project</a> 
       </b>
     </td>
   </tr>
   <tr>
     <td>Jan 31</td>
-    <td>Privacy policies</td>
+    <td>Privacy policies [<a href="resources/Week-4a.pdf">Slides</a>]</td>
     <td rowspan=2>Privacy purpose, privacy expectations, data overcollection, oversensing, overaccess</td>
   </tr>
   <tr>
@@ -157,7 +157,7 @@ table, th, td {
      <td> Reading lists: <br />
       <ul>
         <li><a href="https://www.cse.psu.edu/~duk17/papers/nflprivacy.pdf">No Free Lunch in Data Privacy</a></li>
-        <li> <a></a> </li>
+        <li> <a href="https://www.microsoft.com/en-us/research/wp-content/uploads/2009/06/NetflixPrivacy.pdf">Differentially Private Recommender Systems: Building Privacy into the Netflix Prize Contenders</a> </li>
       </ul>
     </td>
   </tr>
