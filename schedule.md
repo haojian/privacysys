@@ -157,7 +157,6 @@ table, th, td {
      <td> Reading lists: <br />
       <ul>
         <li><a href="https://dl.acm.org/doi/pdf/10.1145/2660267.2660348">Rappor: Randomized aggregatable privacy-preserving ordinal response</a></li>
-        <!-- <li><a href="https://www.cse.psu.edu/~duk17/papers/nflprivacy.pdf">No Free Lunch in Data Privacy</a></li> -->
         <li> <a href="https://www.microsoft.com/en-us/research/wp-content/uploads/2009/06/NetflixPrivacy.pdf">Differentially Private Recommender Systems: Building Privacy into the Netflix Prize Contenders</a> </li>
         <li><a href="https://arxiv.org/abs/1811.03604">Federated Learning for Mobile Keyboard Prediction</a></li>
       </ul>
@@ -278,3 +277,4 @@ table, th, td {
 - [A Behavior Model for Persuasive Design](https://dl.acm.org/doi/pdf/10.1145/1541948.1541999)
 - [Web Privacy with P3P](https://www.researchgate.net/profile/Lorrie-Cranor/publication/238752773_Web_privacy_with_p3p/links/0deec53984b197c3c9000000/Web-privacy-with-p3p.pdf)
 - [Why We Can’t Be Bothered to Read Privacy Policies Models of Privacy Economics as a Lemons Market](https://dl.acm.org/doi/pdf/10.1145/948005.948057)
+- [No Free Lunch in Data Privacy](https://www.cse.psu.edu/~duk17/papers/nflprivacy.pdf)
