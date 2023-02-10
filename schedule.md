@@ -156,8 +156,8 @@ table, th, td {
     <td>Feb 16</td>
      <td> Reading lists: <br />
       <ul>
-        <li><a href="https://dl.acm.org/doi/pdf/10.1145/2660267.2660348">Rappor: Randomized aggregatable privacy-preserving ordinal response</a></li>
         <li> <a href="https://www.microsoft.com/en-us/research/wp-content/uploads/2009/06/NetflixPrivacy.pdf">Differentially Private Recommender Systems: Building Privacy into the Netflix Prize Contenders</a> </li>
+        <li><a href="https://dl.acm.org/doi/pdf/10.1145/2660267.2660348">Rappor: Randomized aggregatable privacy-preserving ordinal response</a></li>
         <li><a href="https://arxiv.org/abs/1811.03604">Federated Learning for Mobile Keyboard Prediction</a></li>
       </ul>
     </td>
