@@ -130,7 +130,7 @@ table, th, td {
   </tr>
   <tr>
     <td>Feb 7</td>
-    <td>Privacy reviews and compliance</td>
+    <td>Privacy reviews and compliance  [<a href="resources/Week-5a.pdf">Slides</a>]</td>
     <td rowspan=2>Privacy purpose, privacy expectations, Privacy engineering</td>
   </tr>
     <tr>
