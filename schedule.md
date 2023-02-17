@@ -177,6 +177,7 @@ table, th, td {
     <td> Reading lists: <br />
       <ul>
       <li><a href="http://www.sfu.ca/~palys/Zimmer-2010-EthicsOfResearchFromFacebook.pdf">"But the data is already public": on the ethics of research in Facebook</a></li>
+      <li><a href="https://dl.acm.org/doi/pdf/10.1145/3173574.3174241?utm_source=miragenews&utm_medium=miragenews&utm_campaign=news">“A Stalker’s Paradise”: How Intimate Partner Abusers Exploit Technology</li>
       </ul>
     </td>
   </tr>
