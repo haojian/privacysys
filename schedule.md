@@ -144,7 +144,7 @@ table, th, td {
   </tr>
   <tr>
     <td colspan=3 style="background: #ADD8E6; text-align: center">
-      <b>Week 6 US Census Bureau</b>
+      <b>Week 6 US Census Bureau [<a href="resources/Week-6a.pdf">Slides</a>]</b>
     </td>
   </tr>
   <tr>
@@ -164,7 +164,7 @@ table, th, td {
   </tr>
   <tr>
     <td colspan=3 style="background: #ADD8E6; text-align: center">
-      <b>Week 7 Cambridge analytica & Facebook</b>
+      <b>Week 7 Cambridge analytica & Facebook [<a href="resources/Week-7a.pdf">Slides</a>]</b>
     </td>
   </tr>
     <tr>
@@ -195,7 +195,6 @@ table, th, td {
     <td>Mar 2</td>
      <td> Reading lists: <br />
       <ul>
-        <li> <a href="https://www.usenix.org/system/files/conference/usenixsecurity15/sec15-paper-sun.pdf">RAPTOR: Routing Attacks on Privacy in Tor</a></li>
         <li> <a href="https://publications.teamusec.de/2022-oakland-email/pdf/2022_oakland_email_stransky_preprint.pdf">27 Years and 81 Million Opportunities Later: Investigating the Use of Email Encryption for an Entire University</a> </li>
         <li> <a href="https://www.usenix.org/system/files/sec20-edalatnejad_0.pdf">DatashareNetwork: A Decentralized Privacy-Preserving Search Engine for Investigative Journalists</a> </li>
       </ul>
@@ -279,3 +278,4 @@ table, th, td {
 - [Web Privacy with P3P](https://www.researchgate.net/profile/Lorrie-Cranor/publication/238752773_Web_privacy_with_p3p/links/0deec53984b197c3c9000000/Web-privacy-with-p3p.pdf)
 - [Why We Can’t Be Bothered to Read Privacy Policies Models of Privacy Economics as a Lemons Market](https://dl.acm.org/doi/pdf/10.1145/948005.948057)
 - [No Free Lunch in Data Privacy](https://www.cse.psu.edu/~duk17/papers/nflprivacy.pdf)
+- [RAPTOR: Routing Attacks on Privacy in Tor](https://www.usenix.org/system/files/conference/usenixsecurity15/sec15-paper-sun.pdf)
